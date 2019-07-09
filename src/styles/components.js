@@ -1,0 +1,32 @@
+export default {
+  buttonContainer: {
+    flexDirection: 'row',
+    backgroundColor: 'rgba(109, 225, 242, 0.63)',
+    marginLeft: 12,
+    marginRight: 12,
+    borderRadius: 30,
+    paddingLeft: 20,
+    marginBottom: 20,
+    paddingRight: 20,
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: 12,
+  },
+  buttonText: {
+    textAlign: 'center',
+    color: '#fff',
+    marginBottom: 5,
+  },
+  inputContainer: {
+    flexDirection: 'row',
+    backgroundColor: 'rgba(100,100,100,0.4)',
+    marginLeft: 12,
+    marginRight: 12,
+    borderRadius: 30,
+    paddingLeft: 20,
+    marginBottom: 20,
+    paddingRight: 20,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+};

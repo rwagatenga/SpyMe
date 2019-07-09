@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1004538691914",
+    "firebase_url": "https://spyme-8813d.firebaseio.com",
+    "project_id": "spyme-8813d",
+    "storage_bucket": "spyme-8813d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004538691914:android:2c6c5f5005eda731",
+        "android_client_info": {
+          "package_name": "com.spyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004538691914-8piiimk3ggg7b40v0cgq0n751f1kqh5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spyme",
+            "certificate_hash": "1c2dfc16efb333245f7f9e28a743ee7a00ca3eec"
+          }
+        },
+        {
+          "client_id": "1004538691914-9rt85kns4asgtqb1t8i347cpce0hkr5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmoPn51nefREXFVj1JP37c64FZ__Rc9ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004538691914-9rt85kns4asgtqb1t8i347cpce0hkr5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
